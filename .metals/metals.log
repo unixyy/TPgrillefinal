@@ -1,0 +1,2090 @@
+2023.03.15 10:04:37 INFO  Started: Metals version 0.11.11 in workspace '/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette' for client Visual Studio Code 1.76.1.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/Users/unixy/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.11.0/scribe-slf4j_2.13-3.11.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.03.15 10:04:38 INFO  time: initialize in 0.3s
+2023.03.15 10:04:39 WARN  Build server is not auto-connectable.
+2023.03.15 10:04:39 WARN  no build tool detected in workspace '/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.03.15 10:04:39 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/App.java
+2023.03.15 10:10:13 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:12:33 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:12:38 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:12:58 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:13:02 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:13:03 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:13:06 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:13:11 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:13:15 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:13:18 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:13:20 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:13:25 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:13:27 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:13:31 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:13:32 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:13:35 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:13:38 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:13:40 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Solution.java
+2023.03.15 10:13:46 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:13:48 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:13:49 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:13:51 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:13:53 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:13:56 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:13:57 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:210: error: <identifier> expected
+        s.stream().
+                   ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:210: error: not a statement
+        s.stream().
+                  ^
+2 errors
+2023.03.15 10:14:00 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:14:00 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:210: error: <identifier> expected
+        s.stream().
+                   ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:210: error: not a statement
+        s.stream().
+                  ^
+2 errors
+2023.03.15 10:14:01 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:14:02 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:210: error: not a statement
+        s.stream().so
+                  ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:210: error: ';' expected
+        s.stream().so
+                     ^
+2 errors
+2023.03.15 10:14:03 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:14:03 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:210: error: <identifier> expected
+        s.stream().
+                   ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:210: error: not a statement
+        s.stream().
+                  ^
+2 errors
+2023.03.15 10:14:16 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:14:18 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:14:18 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:210: error: not a statement
+        s.stream().find
+                  ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:210: error: ';' expected
+        s.stream().find
+                       ^
+2 errors
+2023.03.15 10:14:19 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:14:19 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:210: error: ';' expected
+        s.stream().findAny()
+                            ^
+1 error
+2023.03.15 10:14:43 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:14:43 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:210: error: ';' expected
+        s.stream().findAny(x )
+                              ^
+1 error
+2023.03.15 10:14:45 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:14:46 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:210: error: illegal start of expression
+        s.stream().findAny(x -> )
+                                ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:210: error: ';' expected
+        s.stream().findAny(x -> )
+                                 ^
+2 errors
+2023.03.15 10:14:49 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:14:49 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:210: error: ';' expected
+        s.stream().findAny(x -> x == null)
+                                          ^
+1 error
+2023.03.15 10:14:54 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:14:57 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:15:18 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:15:20 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:15:29 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:15:29 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:210: error: ')' expected
+        s.stream().findAny(Coord x -> x == null);
+                                ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:210: error: not a statement
+        s.stream().findAny(Coord x -> x == null);
+                                 ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:210: error: ';' expected
+        s.stream().findAny(Coord x -> x == null);
+                                               ^
+3 errors
+2023.03.15 10:15:30 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:15:47 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:15:47 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:210: error: <identifier> expected
+        s.stream().
+                   ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:210: error: not a statement
+        s.stream().
+                  ^
+2 errors
+2023.03.15 10:16:17 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:16:18 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:210: error: ';' expected
+        s.stream().findAny()
+                            ^
+1 error
+2023.03.15 10:16:21 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:16:21 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:212: error: ';' expected
+        })
+          ^
+1 error
+2023.03.15 10:16:26 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:16:32 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:16:32 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:210: error: <identifier> expected
+        s.stream().
+                   ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:210: error: not a statement
+        s.stream().
+                  ^
+2 errors
+2023.03.15 10:16:35 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:16:35 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:210: error: ';' expected
+        s.stream().anyMatch(null)
+                                 ^
+1 error
+Mar 15, 2023 10:16:43 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1019
+2023.03.15 10:16:44 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:16:45 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:210: error: ';' expected
+        s.stream().anyMatch(x -> x == null)
+                                           ^
+1 error
+2023.03.15 10:16:57 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:16:57 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:210: error: ')' expected
+        s.stream().anyMatch(Coord x -> x == null)
+                                 ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:210: error: not a statement
+        s.stream().anyMatch(Coord x -> x == null)
+                                  ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:210: error: ';' expected
+        s.stream().anyMatch(Coord x -> x == null)
+                                                ^
+3 errors
+2023.03.15 10:16:59 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:16:59 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:210: error: ';' expected
+        s.stream().anyMatch((Coord x) -> x == null)
+                                                   ^
+1 error
+2023.03.15 10:17:28 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:17:28 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:210: error: ';' expected
+        s.stream().anyMatch((Coord x) -> Object.is)
+                                                   ^
+1 error
+2023.03.15 10:17:29 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:17:30 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:210: error: <identifier> expected
+        s.stream().anyMatch((Coord x) -> Object.)
+                                                ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:210: error: ';' expected
+        s.stream().anyMatch((Coord x) -> Object.)
+                                                 ^
+2 errors
+2023.03.15 10:17:38 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:17:38 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:210: error: <identifier> expected
+        Object.
+               ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:210: error: not a statement
+        Object.
+              ^
+2 errors
+2023.03.15 10:17:43 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:17:43 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:210: error: not a statement
+        Objects.i
+               ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:210: error: ';' expected
+        Objects.i
+                 ^
+2 errors
+2023.03.15 10:17:44 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:17:45 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:210: error: ';' expected
+        Objects.isNull(s)
+                         ^
+1 error
+2023.03.15 10:17:50 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:17:50 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:210: error: ';' expected
+        s.stream().anyMatch((Coord x) -> Objects.isNull(s))
+                                                           ^
+1 error
+2023.03.15 10:17:52 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:17:52 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:210: error: ';' expected
+        s.stream().anyMatch((Coord x) -> Objects.isNull(x))
+                                                           ^
+1 error
+2023.03.15 10:17:53 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:17:55 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:17:57 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:18:24 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:18:25 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:18:26 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:18:55 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:18:57 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:18:58 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:18:58 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:210: error: ';' expected
+        var s.stream().anyMatch((Coord x) -> Objects.isNull(x));
+             ^
+1 error
+2023.03.15 10:19:14 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:19:15 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:211: error: illegal start of expression
+        if (!)
+             ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:212: error: illegal start of statement
+    }
+    ^
+2 errors
+2023.03.15 10:19:16 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:19:19 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:19:25 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:19:34 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:19:34 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:213: error: not a statement
+        s.s
+         ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:213: error: ';' expected
+        s.s
+           ^
+2 errors
+2023.03.15 10:19:36 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:19:36 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:213: error: ';' expected
+        s.stream()
+                  ^
+1 error
+2023.03.15 10:19:37 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:19:37 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:213: error: <identifier> expected
+        s.stream().
+                   ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:213: error: not a statement
+        s.stream().
+                  ^
+2 errors
+2023.03.15 10:19:42 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:19:42 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:213: error: not a statement
+        s.stream().forEach
+                  ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:213: error: ';' expected
+        s.stream().forEach
+                          ^
+2 errors
+2023.03.15 10:19:46 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:19:46 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:213: error: <identifier> expected
+        s.stream().
+                   ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:213: error: not a statement
+        s.stream().
+                  ^
+2 errors
+2023.03.15 10:19:48 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:20:00 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:20:00 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:213: error: ';' expected
+        s.stream()
+                  ^
+1 error
+2023.03.15 10:20:08 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:20:12 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:20:20 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:20:20 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:213: error: not a statement
+        s.stream().f;
+                  ^
+1 error
+2023.03.15 10:20:21 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:20:21 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:213: error: <identifier> expected
+        s.stream().;
+                   ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:213: error: not a statement
+        s.stream().;
+                  ^
+2 errors
+2023.03.15 10:20:38 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:20:39 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:213: error: <identifier> expected
+        s.stream().
+                   ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:213: error: not a statement
+        s.stream().
+                  ^
+2 errors
+2023.03.15 10:20:40 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:20:40 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:213: error: <identifier> expected
+        s.stream().;
+                   ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:213: error: not a statement
+        s.stream().;
+                  ^
+2 errors
+2023.03.15 10:20:49 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:20:52 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:21:00 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:21:00 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:213: error: ';' expected
+        Stream.iterate(null, null, null)
+                                        ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:214: error: -> expected
+        s.stream().forEach((a,b) => );;
+                                ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:214: error: illegal start of expression
+        s.stream().forEach((a,b) => );;
+                                 ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:214: error: illegal start of expression
+        s.stream().forEach((a,b) => );;
+                                  ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:214: error: illegal start of expression
+        s.stream().forEach((a,b) => );;
+                                    ^
+5 errors
+2023.03.15 10:21:02 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:21:02 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:213: error: ';' expected
+        Stream.iterate(null, null, null)
+                                        ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:214: error: -> expected
+        s.stream().forEach((a,b) => a+);;
+                                ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:214: error: illegal start of expression
+        s.stream().forEach((a,b) => a+);;
+                                 ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:214: error: illegal start of expression
+        s.stream().forEach((a,b) => a+);;
+                                  ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:214: error: illegal start of expression
+        s.stream().forEach((a,b) => a+);;
+                                      ^
+5 errors
+2023.03.15 10:21:03 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:21:03 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:213: error: ';' expected
+        Stream.iterate(null, null, null)
+                                        ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:214: error: -> expected
+        s.stream().forEach((a,b) => a+b);;
+                                ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:214: error: illegal start of expression
+        s.stream().forEach((a,b) => a+b);;
+                                 ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:214: error: illegal start of expression
+        s.stream().forEach((a,b) => a+b);;
+                                  ^
+4 errors
+2023.03.15 10:21:07 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:21:07 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:213: error: ';' expected
+        Stream.iterate(null, null, null)
+                                        ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:214: error: -> expected
+        s.stream().forEach((a,b) => a+b);
+                                ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:214: error: illegal start of expression
+        s.stream().forEach((a,b) => a+b);
+                                 ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:214: error: illegal start of expression
+        s.stream().forEach((a,b) => a+b);
+                                  ^
+4 errors
+Mar 15, 2023 10:21:10 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1932
+2023.03.15 10:21:12 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:21:12 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:213: error: ';' expected
+        Stream.iterate(null, null, null)
+                                        ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:214: error: not a statement
+        s.stream().forEach);
+                  ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:214: error: ';' expected
+        s.stream().forEach);
+                          ^
+3 errors
+2023.03.15 10:21:14 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:21:14 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:213: error: ';' expected
+        Stream.iterate(null, null, null)
+                                        ^
+1 error
+2023.03.15 10:21:25 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:21:25 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:213: error: ';' expected
+        Stream.iterate(0, n -> n + 2)
+                                     ^
+1 error
+2023.03.15 10:21:30 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:21:30 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:213: error: ';' expected
+        Stream.iterate(1, n -> n + 1)
+                                     ^
+1 error
+2023.03.15 10:21:34 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:21:34 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:213: error: illegal start of expression
+        Stream.iterate(1, n -> n + 1, )
+                                      ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:213: error: ';' expected
+        Stream.iterate(1, n -> n + 1, )
+                                       ^
+2 errors
+2023.03.15 10:21:41 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:21:45 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:21:45 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:213: error: ';' expected
+        Stream.iterate(1, n -> n + 1, n -> n < s.size())
+                                                        ^
+1 error
+2023.03.15 10:21:46 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:22:14 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:22:30 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Solution.java
+2023.03.15 10:22:30 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Solution.java
+2023.03.15 10:22:55 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:22:56 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:23:01 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:23:06 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:23:09 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:23:10 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:214: error: <identifier> expected
+        Stream.iterate(1, n -> n + 1).;
+                                      ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:214: error: not a statement
+        Stream.iterate(1, n -> n + 1).;
+                                     ^
+2 errors
+2023.03.15 10:23:11 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:23:12 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:23:13 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:214: error: illegal start of expression
+        Stream.iterate(1, n -> n + 1, );
+                                      ^
+1 error
+2023.03.15 10:23:15 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:23:20 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:23:20 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:214: error: not a statement
+        Stream.iterate(1, n -> n + 1).ta;
+                                     ^
+1 error
+2023.03.15 10:23:24 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:23:30 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:23:32 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:23:34 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:23:34 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:214: error: not a statement
+        Stream.iterate(1, n -> n + 1).takeWhile(n -> n < s.size()).m;
+                                                                  ^
+1 error
+2023.03.15 10:23:36 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:23:36 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:214: error: <identifier> expected
+        Stream.iterate(1, n -> n + 1).takeWhile(n -> n < s.size()).;
+                                                                   ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:214: error: not a statement
+        Stream.iterate(1, n -> n + 1).takeWhile(n -> n < s.size()).;
+                                                                  ^
+2 errors
+2023.03.15 10:23:37 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:23:37 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:214: error: not a statement
+        Stream.iterate(1, n -> n + 1).takeWhile(n -> n < s.size()).an;
+                                                                  ^
+1 error
+2023.03.15 10:23:38 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:23:39 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:23:47 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:23:47 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:214: error: illegal start of expression
+        Stream.iterate(1, n -> n + 1).takeWhile(n -> n < s.size()).anyMatch(i -> );
+                                                                                 ^
+1 error
+2023.03.15 10:23:49 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:23:52 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:24:41 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:24:42 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:214: error: <identifier> expected
+        Stream.iterate(1, n -> n + 1).takeWhile(n -> n < s.size()).anyMatch(i -> s.get(i-1).);
+                                                                                            ^
+1 error
+2023.03.15 10:24:46 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:24:48 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Coord.java
+2023.03.15 10:24:51 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Solution.java
+2023.03.15 10:25:01 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:25:03 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:25:14 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:25:30 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:26:07 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:26:12 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:26:13 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:225: error: ';' expected
+		var Stream.iterate(1, n -> n + 1).takeWhile(n -> n < s.size()).anyMatch(i -> !s.get(i - 1).estADistanceUn(s.get(i)));
+		          ^
+1 error
+2023.03.15 10:26:14 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:26:14 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:225: error: ';' expected
+		var noStream.iterate(1, n -> n + 1).takeWhile(n -> n < s.size()).anyMatch(i -> !s.get(i - 1).estADistanceUn(s.get(i)));
+		            ^
+1 error
+2023.03.15 10:26:18 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:26:21 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:26:22 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:26:23 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:226: error: '(' expected
+		if
+		  ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:227: error: illegal start of expression
+	}
+	^
+2 errors
+2023.03.15 10:26:24 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:26:27 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:26:39 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:27:02 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:27:02 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:229: error: illegal start of expression
+        var noOutOfPlateau = s.stream().anyMatch((Coord x) -> );
+                                                              ^
+1 error
+2023.03.15 10:27:18 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:27:19 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:27:23 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:27:26 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:27:35 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:27:38 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:27:43 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:27:43 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:27:50 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:27:55 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:27:59 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:28:07 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:28:13 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:28:16 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:28:19 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:28:26 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:28:55 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:28:58 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:29:41 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:29:42 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:31:00 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+Mar 15, 2023 10:31:21 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3225
+2023.03.15 10:31:22 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:31:27 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:31:27 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:237: error: <identifier> expected
+        s.stream().
+                   ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:237: error: not a statement
+        s.stream().
+                  ^
+2 errors
+2023.03.15 10:31:28 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:31:29 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:237: error: ';' expected
+        s.stream().allMatch(null)
+                                 ^
+1 error
+2023.03.15 10:31:37 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:31:38 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:237: error: <identifier> expected
+        s.stream().
+                   ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:237: error: not a statement
+        s.stream().
+                  ^
+2 errors
+2023.03.15 10:31:39 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:32:06 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:32:06 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:237: error: not a statement
+        s.stream().forEach
+                  ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:237: error: ';' expected
+        s.stream().forEach
+                          ^
+2 errors
+2023.03.15 10:32:13 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:32:13 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:237: error: not a statement
+        s.stream().reduce
+                  ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:237: error: ';' expected
+        s.stream().reduce
+                         ^
+2 errors
+2023.03.15 10:32:21 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:32:21 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:237: error: <identifier> expected
+        s.stream().
+                   ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:237: error: not a statement
+        s.stream().
+                  ^
+2 errors
+2023.03.15 10:32:22 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:32:22 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:237: error: <identifier> expected
+        s.stream().for
+                   ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:237: error: not a statement
+        s.stream().for
+                  ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:237: error: '(' expected
+        s.stream().for
+                      ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:241: error: illegal start of expression
+		return 0;
+		^
+4 errors
+2023.03.15 10:32:23 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:32:24 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:237: error: not a statement
+        s.stream().forEach
+                  ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:237: error: ';' expected
+        s.stream().forEach
+                          ^
+2 errors
+2023.03.15 10:32:25 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:32:26 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:32:32 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:32:32 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:237: error: -> expected
+        s.stream().forEach((Coord c));
+                                    ^
+1 error
+2023.03.15 10:32:39 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:32:39 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:237: error: illegal start of expression
+        s.stream().forEach((Coord c) -> if);
+                                        ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:237: error: '(' expected
+        s.stream().forEach((Coord c) -> if);
+                                          ^
+2 errors
+2023.03.15 10:32:42 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:32:43 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:237: error: illegal start of expression
+        s.stream().forEach((Coord c) -> );
+                                        ^
+1 error
+2023.03.15 10:32:46 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:32:46 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:237: error: not a statement
+        s.stream().red
+                  ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:237: error: ';' expected
+        s.stream().red
+                      ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:239: error: illegal start of expression
+        s.stream().forEach((Coord c) -> );
+                                        ^
+3 errors
+2023.03.15 10:32:47 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:32:48 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:237: error: ';' expected
+        s.stream().reduce(null)
+                               ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:239: error: illegal start of expression
+        s.stream().forEach((Coord c) -> );
+                                        ^
+2 errors
+2023.03.15 10:32:49 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:32:49 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:237: error: ';' expected
+        s.stream().reduce(null)
+                               ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:239: error: illegal start of expression
+        s.stream().forEach((Coord c) -> );
+                                        ^
+2 errors
+2023.03.15 10:32:53 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:32:53 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:238: error: illegal start of expression
+        const money
+        ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:239: error: ';' expected
+        s.stream().forEach((Coord c) -> );
+         ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:239: error: illegal start of expression
+        s.stream().forEach((Coord c) -> );
+                                        ^
+3 errors
+2023.03.15 10:32:55 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:32:56 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:238: error: illegal start of expression
+        const money = 0;
+        ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:239: error: illegal start of expression
+        s.stream().forEach((Coord c) -> );
+                                        ^
+2 errors
+2023.03.15 10:32:59 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:32:59 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:239: error: illegal start of expression
+        s.stream().forEach((Coord c) -> );
+                                        ^
+1 error
+2023.03.15 10:33:05 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:33:05 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:238: error: illegal start of expression
+        s.stream().forEach((Coord c) -> );
+                                        ^
+1 error
+2023.03.15 10:33:07 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:33:07 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:236: error: illegal start of expression
+        s.stream().forEach((Coord c) -> );
+                                        ^
+1 error
+2023.03.15 10:33:34 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:33:35 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:236: error: <identifier> expected
+        s.stream().forEach((Coord c) -> c.);
+                                          ^
+1 error
+2023.03.15 10:33:41 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:33:41 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:236: error: illegal start of expression
+        s.stream().forEach((Coord c) -> );
+                                        ^
+1 error
+2023.03.15 10:33:43 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:33:46 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:33:46 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:239: error: ')' expected
+        }
+         ^
+1 error
+2023.03.15 10:33:48 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:33:48 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:239: error: ')' expected
+        };
+         ^
+1 error
+2023.03.15 10:33:49 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:34:23 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:34:23 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:238: error: not a statement
+                money ;
+                ^
+1 error
+2023.03.15 10:34:24 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:34:27 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:34:28 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:238: error: not a statement
+                money ;
+                ^
+1 error
+2023.03.15 10:34:28 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:34:29 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:238: error: not a statement
+                money;
+                ^
+1 error
+2023.03.15 10:34:33 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:34:33 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:236: error: not a statement
+        s.stream().fol;
+                  ^
+1 error
+2023.03.15 10:34:36 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:34:36 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:236: error: not a statement
+        s.stream().f;
+                  ^
+1 error
+2023.03.15 10:34:39 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:34:39 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:236: error: not a statement
+        s.stream().red;
+                  ^
+1 error
+2023.03.15 10:34:43 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:34:45 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:34:45 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:236: error: not a statement
+        s.stream().red;
+                  ^
+1 error
+2023.03.15 10:34:48 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:34:48 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:236: error: <identifier> expected
+        s.stream().;
+                   ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:236: error: not a statement
+        s.stream().;
+                  ^
+2 errors
+2023.03.15 10:34:55 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:34:59 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:35:03 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:35:07 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:35:09 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:35:18 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:35:26 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:35:28 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:35:48 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:36:55 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:36:58 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:36:58 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:235: error: ';' expected
+        return s.str
+                    ^
+1 error
+2023.03.15 10:37:02 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:37:03 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:235: error: ';' expected
+        return s.stream().red
+                             ^
+1 error
+2023.03.15 10:37:05 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:37:05 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:235: error: ';' expected
+        return s.stream().reduce(null, null, null)
+                                                  ^
+1 error
+2023.03.15 10:37:06 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:37:07 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:235: error: ';' expected
+        return s.stream().reduce(9, null, null)
+                                               ^
+1 error
+2023.03.15 10:37:08 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:37:09 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:235: error: ';' expected
+        return s.stream().reduce(0, null, null)
+                                               ^
+1 error
+2023.03.15 10:37:10 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:37:10 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:235: error: ';' expected
+        return s.stream().reduce(0, null, null)
+                                               ^
+1 error
+2023.03.15 10:37:11 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:37:11 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:235: error: ';' expected
+        return s.stream().reduce(0, null, null)
+                                               ^
+1 error
+2023.03.15 10:37:14 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:37:14 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:235: error: ';' expected
+        return s.stream().reduce(0, null, null)
+                                               ^
+1 error
+2023.03.15 10:37:17 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:37:18 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:235: error: illegal start of expression
+        return s.stream().reduce(0, 0, +)
+                                        ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:235: error: ';' expected
+        return s.stream().reduce(0, 0, +)
+                                         ^
+2 errors
+2023.03.15 10:37:19 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:37:19 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:235: error: illegal start of expression
+        return s.stream().reduce(0, 0, +);
+                                        ^
+1 error
+2023.03.15 10:37:21 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:37:22 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:235: error: illegal start of expression
+        return s.stream().reduce(0, 0, +);
+                                        ^
+1 error
+2023.03.15 10:37:27 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:37:27 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:235: error: <identifier> expected
+        return s.stream().reduce(0, 0, Integer::);
+                                                ^
+1 error
+2023.03.15 10:37:30 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:37:31 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:37:32 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+Mar 15, 2023 10:37:40 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4626
+2023.03.15 10:37:42 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:37:44 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:37:50 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:37:52 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:37:53 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:37:57 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:37:57 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:240: error: ';' expected
+        s.stream()
+                  ^
+1 error
+2023.03.15 10:38:01 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:38:09 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:38:12 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:38:13 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:38:15 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:39:14 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:39:26 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:40:30 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:40:42 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:40:46 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:40:49 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:43:10 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:43:10 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:277: error: not a statement
+        s
+        ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:277: error: ';' expected
+        s
+         ^
+2 errors
+2023.03.15 10:43:14 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:44:21 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:44:22 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:44:25 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:44:25 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:277: error: not a statement
+        s.stream
+         ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:277: error: ';' expected
+        s.stream
+                ^
+2 errors
+2023.03.15 10:44:27 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:44:30 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:44:30 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:277: error: not a statement
+        listeCoordPieces
+        ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:277: error: ';' expected
+        listeCoordPieces
+                        ^
+2 errors
+2023.03.15 10:44:35 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:44:39 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:44:40 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:44:47 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:44:54 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:45:39 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:45:40 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:8: error: cannot find symbol
+	private Coord startingP; // point de départ
+	        ^
+  symbol:   class Coord
+  location: class Instance
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:17: error: cannot find symbol
+	private ArrayList<Coord> listeCoordPieces;// attribut supplémentaire (qui est certes redondant) qui contiendra la
+	                  ^
+  symbol:   class Coord
+  location: class Instance
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:35: error: cannot find symbol
+	public Instance(boolean[][] p, Coord s, int kk, int hh) {
+	                               ^
+  symbol:   class Coord
+  location: class Instance
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:42: error: cannot find symbol
+	public Instance(boolean[][] p, Coord s, int kk) {
+	                               ^
+  symbol:   class Coord
+  location: class Instance
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:90: error: cannot find symbol
+	public Coord getStartingP() {
+	       ^
+  symbol:   class Coord
+  location: class Instance
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:94: error: cannot find symbol
+	public void setStartingP(Coord c) {
+	                         ^
+  symbol:   class Coord
+  location: class Instance
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:106: error: cannot find symbol
+	public ArrayList<Coord> getListeCoordPieces() {
+	                 ^
+  symbol:   class Coord
+  location: class Instance
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:121: error: cannot find symbol
+	public boolean piecePresente(Coord c) {
+	                             ^
+  symbol:   class Coord
+  location: class Instance
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:125: error: cannot find symbol
+	public void retirerPiece(Coord c) {
+	                         ^
+  symbol:   class Coord
+  location: class Instance
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:158: error: cannot find symbol
+	public String toString(Solution s) {
+	                       ^
+  symbol:   class Solution
+  location: class Instance
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:209: error: cannot find symbol
+	public boolean estValide(Solution s) {
+	                         ^
+  symbol:   class Solution
+  location: class Instance
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:231: error: cannot find symbol
+	public int evaluerSolution(Solution s) {
+	                           ^
+  symbol:   class Solution
+  location: class Instance
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:260: error: illegal combination of modifiers: public and private
+	public ArrayList<Integer> greedyPermut() {
+	                          ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:285: error: cannot find symbol
+	public Solution calculerSol(ArrayList<Integer> permut) {
+	       ^
+  symbol:   class Solution
+  location: class Instance
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:58: error: cannot find symbol
+		startingP = new Coord(i.startingP);
+		                ^
+  symbol:   class Coord
+  location: class Instance
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:61: error: cannot find symbol
+		for (Coord c : i.listeCoordPieces) {
+		     ^
+  symbol:   class Coord
+  location: class Instance
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:62: error: cannot find symbol
+			listeCoordPieces.add(new Coord(c));
+			                         ^
+  symbol:   class Coord
+  location: class Instance
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:74: error: cannot find symbol
+				&& Algos.egalEnsembliste(getListeCoordPieces(), instance.getListeCoordPieces());
+				   ^
+  symbol:   variable Algos
+  location: class Instance
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:108: error: cannot find symbol
+			ArrayList<Coord> listeCoordPieces = new ArrayList<>();
+			          ^
+  symbol:   class Coord
+  location: class Instance
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:111: error: cannot find symbol
+					if (piecePresente(new Coord(l, c))) {
+					                      ^
+  symbol:   class Coord
+  location: class Instance
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:112: error: cannot find symbol
+						listeCoordPieces.add(new Coord(l, c));
+						                         ^
+  symbol:   class Coord
+  location: class Instance
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:142: error: cannot find symbol
+				if (startingP.equals(new Coord(l, c)))
+				                         ^
+  symbol:   class Coord
+  location: class Instance
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:145: error: cannot find symbol
+					if (piecePresente(new Coord(l, c))) {
+					                      ^
+  symbol:   class Coord
+  location: class Instance
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:183: error: cannot find symbol
+				if (startingP.equals(new Coord(l, c)))
+				                         ^
+  symbol:   class Coord
+  location: class Instance
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:186: error: cannot find symbol
+					if (s.contains(new Coord(l, c)) && piecePresente(new Coord(l, c))) {
+					                   ^
+  symbol:   class Coord
+  location: class Instance
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:186: error: cannot find symbol
+					if (s.contains(new Coord(l, c)) && piecePresente(new Coord(l, c))) {
+					                                                     ^
+  symbol:   class Coord
+  location: class Instance
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:189: error: cannot find symbol
+					if (!s.contains(new Coord(l, c)) && piecePresente(new Coord(l, c))) {
+					                    ^
+  symbol:   class Coord
+  location: class Instance
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:189: error: cannot find symbol
+					if (!s.contains(new Coord(l, c)) && piecePresente(new Coord(l, c))) {
+					                                                      ^
+  symbol:   class Coord
+  location: class Instance
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:192: error: cannot find symbol
+					if (s.contains(new Coord(l, c)) && !piecePresente(new Coord(l, c))) {
+					                   ^
+  symbol:   class Coord
+  location: class Instance
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:192: error: cannot find symbol
+					if (s.contains(new Coord(l, c)) && !piecePresente(new Coord(l, c))) {
+					                                                      ^
+  symbol:   class Coord
+  location: class Instance
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:195: error: cannot find symbol
+					if (!s.contains(new Coord(l, c)) && !piecePresente(new Coord(l, c))) {
+					                    ^
+  symbol:   class Coord
+  location: class Instance
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:195: error: cannot find symbol
+					if (!s.contains(new Coord(l, c)) && !piecePresente(new Coord(l, c))) {
+					                                                       ^
+  symbol:   class Coord
+  location: class Instance
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:220: error: cannot find symbol
+		var noNulls = s.stream().anyMatch((Coord x) -> Objects.isNull(x));
+		                                   ^
+  symbol:   class Coord
+  location: class Instance
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:1: error: 
+import java.util.ArrayList;
+^
+34 errors
+printing javac parameters to: /private/var/folders/hx/983fy5qs3lq599z314nt1bxm0000gn/T/metals-javac-semanticdb912377404064751324/javac.20230315_104540.args
+2023.03.15 10:45:52 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:45:52 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:258: error: <identifier> expected
+    private ArrayList<Integer>
+                              ^
+1 error
+2023.03.15 10:45:58 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:45:58 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:258: error: ';' expected
+    private ArrayList<Integer> get
+                                  ^
+1 error
+2023.03.15 10:46:02 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:46:03 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:258: error: ';' expected
+    private ArrayList<Integer> closestPiece()
+                                             ^
+1 error
+2023.03.15 10:46:04 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:46:05 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:258: error: <identifier> expected
+    private ArrayList<Integer> closestPiece(Coord)
+                                                 ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:258: error: ';' expected
+    private ArrayList<Integer> closestPiece(Coord)
+                                                  ^
+2 errors
+Mar 15, 2023 10:46:08 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5475
+2023.03.15 10:46:09 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:46:09 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:258: error: illegal start of type
+    private ArrayList<Integer> closestPiece(Coord x, )
+                                                     ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:258: error: ';' expected
+    private ArrayList<Integer> closestPiece(Coord x, )
+                                                      ^
+2 errors
+2023.03.15 10:46:13 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:46:14 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:258: error: <identifier> expected
+    private ArrayList<Integer> closestPiece(Coord x, ArrayList<Coord>)
+                                                                     ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:258: error: ';' expected
+    private ArrayList<Integer> closestPiece(Coord x, ArrayList<Coord>)
+                                                                      ^
+2 errors
+2023.03.15 10:46:14 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:46:15 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:258: error: <identifier> expected
+    private ArrayList<Integer> closestPiece(Coord x, ArrayList<Coord> )
+                                                                     ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:258: error: ';' expected
+    private ArrayList<Integer> closestPiece(Coord x, ArrayList<Coord> )
+                                                                       ^
+2 errors
+2023.03.15 10:46:20 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:46:20 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:258: error: ';' expected
+    private ArrayList<Integer> closestPiece(Coord x, ArrayList<Coord> pieces)
+                                                                             ^
+1 error
+2023.03.15 10:46:27 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:46:31 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:46:31 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:258: error: ';' expected
+    private ArrayList<Integer> closestPiece(Coord x, ArrayList<Coord> pieces)
+                                                                             ^
+1 error
+2023.03.15 10:46:33 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:46:37 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:46:37 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:260: error: illegal start of expression
+    }
+    ^
+1 error
+2023.03.15 10:47:40 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:47:41 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:260: error: illegal start of expression
+    }
+    ^
+1 error
+2023.03.15 10:47:44 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:47:45 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:259: error: ';' expected
+        val closes
+                  ^
+1 error
+2023.03.15 10:47:46 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:47:56 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:47:59 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:48:00 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:48:05 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:48:19 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:48:21 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:48:21 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:264: error: illegal start of expression
+    }
+    ^
+1 error
+2023.03.15 10:48:38 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:48:39 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:258: error: <identifier> expected
+    private ArrayList<Integer> closestPieces(Coord x, ArrayList<Coord> pieces, ArrayList<Integer> ) {
+                                                                                                 ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:264: error: illegal start of expression
+    }
+    ^
+2 errors
+2023.03.15 10:48:42 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:48:43 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:264: error: illegal start of expression
+    }
+    ^
+1 error
+2023.03.15 10:48:47 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:48:47 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:263: error: ';' expected
+        return closestPieces(x, pieces, path)
+                                             ^
+1 error
+2023.03.15 10:48:59 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:48:59 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:263: error: ';' expected
+        return closestPieces(x, pieces.t, path)
+                                               ^
+1 error
+2023.03.15 10:49:02 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:49:02 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:263: error: <identifier> expected
+        return closestPieces(x, pieces., path)
+                                       ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:263: error: ';' expected
+        return closestPieces(x, pieces., path)
+                                              ^
+2 errors
+2023.03.15 10:49:08 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:49:08 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:263: error: ';' expected
+        return closestPieces(x, pieces.dr, path)
+                                                ^
+1 error
+2023.03.15 10:49:12 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:49:12 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:263: error: ';' expected
+        return closestPieces(x, pieces, path)
+                                             ^
+1 error
+2023.03.15 10:49:18 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:49:18 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:264: error: ';' expected
+        return closestPieces(x, pieces, path)
+                                             ^
+1 error
+2023.03.15 10:49:25 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:49:26 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:260: error: variable declaration not allowed here
+        var closest = pieces.stream()
+            ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:264: error: ';' expected
+        return closestPieces(x, pieces, path)
+                                             ^
+2 errors
+2023.03.15 10:49:26 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:49:27 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:260: error: variable declaration not allowed here
+        var closest = pieces.stream()
+            ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:264: error: ';' expected
+        return closestPieces(x, pieces, path)
+                                             ^
+2 errors
+2023.03.15 10:49:31 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:49:31 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:265: error: ';' expected
+        return closestPieces(x, pieces, path)
+                                             ^
+1 error
+2023.03.15 10:49:43 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:49:43 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:265: error: ';' expected
+        return closestPieces(x, pieces.subList(k, k), path)
+                                                           ^
+1 error
+2023.03.15 10:49:43 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:49:45 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:49:45 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:265: error: ';' expected
+        return closestPieces(x, pieces.subList(1, k), path)
+                                                           ^
+1 error
+2023.03.15 10:49:47 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:49:47 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:266: error: ';' expected
+        return closestPieces(x, pieces.subList(1, pi), path)
+                                                            ^
+1 error
+2023.03.15 10:49:49 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:49:49 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:266: error: ';' expected
+        return closestPieces(x, pieces.subList(1, pieces.le), path)
+                                                                   ^
+1 error
+2023.03.15 10:49:50 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:49:51 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:266: error: ';' expected
+        return closestPieces(x, pieces.subList(1, pieces.si), path)
+                                                                   ^
+1 error
+2023.03.15 10:49:52 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:49:52 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:266: error: illegal start of expression
+        return closestPieces(x, pieces.subList(1, pieces.size()-), path)
+                                                                ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:266: error: ';' expected
+        return closestPieces(x, pieces.subList(1, pieces.size()-), path)
+                                                                        ^
+2 errors
+2023.03.15 10:49:54 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:49:54 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:261: error: ';' expected
+        return closestPieces(x, pieces.subList(1, pieces.size()-1), path)
+                                                                         ^
+1 error
+2023.03.15 10:49:57 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:49:57 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:261: error: ';' expected
+        return closestPieces(x, pieces.subList(1, pieces.size()-1), path)
+                                                                         ^
+1 error
+2023.03.15 10:50:02 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:50:02 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:261: error: <identifier> expected
+        return closestPieces(x, pieces.subList(1, pieces.size()-1), path.)
+                                                                         ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:261: error: ';' expected
+        return closestPieces(x, pieces.subList(1, pieces.size()-1), path.)
+                                                                          ^
+2 errors
+2023.03.15 10:50:06 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:50:06 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:261: error: ';' expected
+        return closestPieces(x, pieces.subList(1, pieces.size()-1), path.add(null))
+                                                                                   ^
+1 error
+2023.03.15 10:50:14 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:50:14 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:261: error: ';' expected
+        return closestPieces(x, pieces.subList(1, pieces.size()-1), path.add(x))
+                                                                                ^
+1 error
+2023.03.15 10:50:24 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:50:25 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:261: error: ';' expected
+        return closestPieces(x, pieces.subList(1, pieces.size()-1), path.add(x))
+                                                                                ^
+1 error
+2023.03.15 10:50:34 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:50:34 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:261: error: ';' expected
+        return closestPieces(x, pieces.subList(1, pieces.size()-1), path.add(x))
+                                                                                ^
+1 error
+2023.03.15 10:50:38 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:50:43 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:50:48 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:50:53 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:51:08 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:51:08 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:262: error: illegal start of expression
+        return closestPieces(closest, pieces.subList(1, pieces.size()-1), );
+                                                                          ^
+1 error
+2023.03.15 10:51:11 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:51:11 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:262: error: ';' expected
+        path.add(x)
+                   ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:263: error: illegal start of expression
+        return closestPieces(closest, pieces.subList(1, pieces.size()-1), );
+                                                                          ^
+2 errors
+2023.03.15 10:51:12 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:51:12 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:263: error: illegal start of expression
+        return closestPieces(closest, pieces.subList(1, pieces.size()-1), );
+                                                                          ^
+1 error
+2023.03.15 10:51:14 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:51:28 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:51:30 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:51:32 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:51:34 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:51:54 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:51:54 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:290: error: ';' expected
+		return clo
+		          ^
+1 error
+2023.03.15 10:51:55 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:51:55 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:290: error: ';' expected
+		return closestPieces(startingP, listeCoordPieces, listeCoordPieces)
+		                                                                   ^
+1 error
+2023.03.15 10:52:04 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:52:04 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:290: error: ')' expected
+		return closestPieces(startingP, listeCoordPieces, new ArrayList<>()
+		                                                                   ^
+1 error
+2023.03.15 10:52:05 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+Mar 15, 2023 10:52:29 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6768
+2023.03.15 10:52:59 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:53:05 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:53:23 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:53:40 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:53:40 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:290: error: illegal start of expression
+		return closestPieces(startingP, listeCoordPieces, []);
+		                                                  ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:290: error: illegal start of expression
+		return closestPieces(startingP, listeCoordPieces, []);
+		                                                   ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:290: error: ';' expected
+		return closestPieces(startingP, listeCoordPieces, []);
+		                                                    ^
+3 errors
+2023.03.15 10:53:44 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:54:02 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:54:03 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:54:11 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:54:11 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:290: error: ';' expected
+		var closestPieces(startingP, listeCoordPieces, new ArrayList<Coord>());
+		                 ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:290: error: not a statement
+		var closestPieces(startingP, listeCoordPieces, new ArrayList<Coord>());
+		                  ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:290: error: ';' expected
+		var closestPieces(startingP, listeCoordPieces, new ArrayList<Coord>());
+		                           ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:290: error: not a statement
+		var closestPieces(startingP, listeCoordPieces, new ArrayList<Coord>());
+		                             ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:290: error: ';' expected
+		var closestPieces(startingP, listeCoordPieces, new ArrayList<Coord>());
+		                                             ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:290: error: ';' expected
+		var closestPieces(startingP, listeCoordPieces, new ArrayList<Coord>());
+		                                                                     ^
+6 errors
+2023.03.15 10:54:13 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:54:17 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:54:17 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:292: error: not a statement
+        res.p
+           ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:292: error: ';' expected
+        res.p
+             ^
+2 errors
+2023.03.15 10:54:19 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:54:19 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:292: error: not a statement
+        res.sub
+           ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:292: error: ';' expected
+        res.sub
+               ^
+2 errors
+2023.03.15 10:54:21 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:54:21 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:292: error: ';' expected
+        res.subList(k, k)
+                         ^
+1 error
+2023.03.15 10:54:24 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:54:27 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:54:28 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:292: error: <identifier> expected
+        res.
+            ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:292: error: not a statement
+        res.
+           ^
+2 errors
+2023.03.15 10:54:29 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:54:29 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:54:30 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:54:35 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:54:38 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:54:41 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:55:46 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:55:49 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:57:37 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:57:39 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:57:39 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:293: error: <identifier> expected
+        res.
+            ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:293: error: not a statement
+        res.
+           ^
+2 errors
+2023.03.15 10:57:42 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:57:43 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:293: error: ';' expected
+        res.stream()
+                    ^
+1 error
+2023.03.15 10:57:44 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:57:45 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:293: error: <identifier> expected
+        res.stream().
+                     ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:293: error: not a statement
+        res.stream().
+                    ^
+2 errors
+2023.03.15 10:57:54 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:57:54 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:293: error: not a statement
+        res.stream().ma
+                    ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:293: error: ';' expected
+        res.stream().ma
+                       ^
+2 errors
+2023.03.15 10:57:56 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:57:56 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:293: error: ';' expected
+        res.stream().map(null)
+                              ^
+1 error
+2023.03.15 10:58:02 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:58:02 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:293: error: illegal start of expression
+        res.stream().map(x -> )
+                              ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:293: error: ';' expected
+        res.stream().map(x -> )
+                               ^
+2 errors
+2023.03.15 10:58:09 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:58:09 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:293: error: ';' expected
+        res.stream().map(x -> Pair)
+                                   ^
+1 error
+2023.03.15 10:58:13 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:58:13 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:293: error: '(' or '[' expected
+        res.stream().map(x -> new Pair)
+                                      ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:293: error: ';' expected
+        res.stream().map(x -> new Pair)
+                                       ^
+2 errors
+2023.03.15 10:58:15 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:58:15 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:293: error: illegal start of type
+        res.stream().map(x -> new Pair<)
+                                       ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:293: error: ';' expected
+        res.stream().map(x -> new Pair<)
+                                        ^
+2 errors
+2023.03.15 10:58:16 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:58:17 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:293: error: ';' expected
+        res.stream().map(x -> new Pair())
+                                         ^
+1 error
+2023.03.15 10:58:20 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:58:20 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:293: error: <identifier> expected
+        res.stream().map(x -> new )
+                                 ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:293: error: '(' or '[' expected
+        res.stream().map(x -> new )
+                                  ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:293: error: ';' expected
+        res.stream().map(x -> new )
+                                   ^
+3 errors
+2023.03.15 10:58:26 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:58:27 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:293: error: illegal start of expression
+        res.stream().map(x -> )
+                              ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:293: error: ';' expected
+        res.stream().map(x -> )
+                               ^
+2 errors
+2023.03.15 10:58:28 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:58:28 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:293: error: ';' expected
+        res.stream().map(x -> x.ge)
+                                   ^
+1 error
+2023.03.15 10:58:31 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:58:31 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:293: error: ';' expected
+        res.stream().map(x -> x.getL())
+                                       ^
+1 error
+2023.03.15 10:58:33 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:58:33 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:293: error: ';' expected
+        res.stream().map(x -> x.getL(), x.get)
+                                              ^
+1 error
+2023.03.15 10:58:35 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:58:35 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:293: error: ';' expected
+        res.stream().map(x -> x.getL(), x.getC())
+                                                 ^
+1 error
+Mar 15, 2023 10:59:18 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7746
+2023.03.15 10:59:20 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:59:20 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:293: error: ';' expected
+        res.stream().map(x -> new Pair<Integer, Integer>(x.getL(), x.getC()))
+                                                                             ^
+1 error
+2023.03.15 10:59:26 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:59:36 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:59:37 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 10:59:38 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:293: error: ')' expected
+        res.stream().map(Coord x -> new Pair<Integer, Integer>(x.getL(), x.getC()));
+                              ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:293: error: not a statement
+        res.stream().map(Coord x -> new Pair<Integer, Integer>(x.getL(), x.getC()));
+                               ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:293: error: ';' expected
+        res.stream().map(Coord x -> new Pair<Integer, Integer>(x.getL(), x.getC()));
+                                                                                  ^
+3 errors
+2023.03.15 10:59:39 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:00:03 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:00:04 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:293: error: illegal start of expression
+        res.stream().map((Coord x) -> return new Pair<Integer, Integer>(x.getL(), x.getC()));
+                                      ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:293: error: ';' expected
+        res.stream().map((Coord x) -> return new Pair<Integer, Integer>(x.getL(), x.getC()));
+                                                                                           ^
+2 errors
+2023.03.15 11:00:14 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:00:16 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:00:16 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:293: error: ';' expected
+        var res.stream().map((Coord x) -> new Pair<Integer, Integer>(x.getL(), x.getC()));
+               ^
+1 error
+2023.03.15 11:00:17 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:00:17 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:293: error: ';' expected
+        var res.stream().map((Coord x) -> Pair<Integer, Integer>(x.getL(), x.getC()));
+               ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:293: error: ')' expected
+        var res.stream().map((Coord x) -> Pair<Integer, Integer>(x.getL(), x.getC()));
+                                                                         ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:293: error: ';' expected
+        var res.stream().map((Coord x) -> Pair<Integer, Integer>(x.getL(), x.getC()));
+                                                                                    ^
+3 errors
+2023.03.15 11:00:18 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:00:18 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:293: error: ';' expected
+        var mres.stream().map((Coord x) -> Pair<Integer, Integer>(x.getL(), x.getC()));
+                ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:293: error: ')' expected
+        var mres.stream().map((Coord x) -> Pair<Integer, Integer>(x.getL(), x.getC()));
+                                                                          ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:293: error: ';' expected
+        var mres.stream().map((Coord x) -> Pair<Integer, Integer>(x.getL(), x.getC()));
+                                                                                     ^
+3 errors
+2023.03.15 11:00:20 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:00:20 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:293: error: ')' expected
+        var m = res.stream().map((Coord x) -> Pair<Integer, Integer>(x.getL(), x.getC()));
+                                                                             ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:293: error: ';' expected
+        var m = res.stream().map((Coord x) -> Pair<Integer, Integer>(x.getL(), x.getC()));
+                                                                                        ^
+2 errors
+2023.03.15 11:00:30 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:00:32 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:00:33 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:293: error: ')' expected
+        var m = res.stream().map((Coord x) -> Pair<Integer, Integer>(x.getL(), x.getC()));
+                                                                             ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:293: error: ';' expected
+        var m = res.stream().map((Coord x) -> Pair<Integer, Integer>(x.getL(), x.getC()));
+                                                                                        ^
+2 errors
+2023.03.15 11:00:35 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:00:35 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:293: error: ')' expected
+        res.stream().map((Coord x) -> Pair<Integer, Integer>(x.getL(), x.getC()));
+                                                                     ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:293: error: ';' expected
+        res.stream().map((Coord x) -> Pair<Integer, Integer>(x.getL(), x.getC()));
+                                                                                ^
+2 errors
+2023.03.15 11:00:46 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:01:15 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:01:15 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:293: error: ';' expected
+        res.stream().map((Coord x) -> {x.getL(), x.getC()));
+                                               ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:293: error: ';' expected
+        res.stream().map((Coord x) -> {x.getL(), x.getC()));
+                                                         ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:295: error: ')' expected
+	}
+	 ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:297: error: illegal start of expression
+	public Solution calculerSol(ArrayList<Integer> permut) {
+	^
+4 errors
+2023.03.15 11:01:17 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:01:17 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:293: error: ';' expected
+        res.stream().map((Coord x) -> {x.getL(), x.getC()});
+                                               ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:293: error: ';' expected
+        res.stream().map((Coord x) -> {x.getL(), x.getC()});
+                                                         ^
+2 errors
+2023.03.15 11:01:20 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:01:20 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:291: error: ';' expected
+        res.stream().map((Coord x) -> {x.getL(), x.getC()});
+                                               ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:291: error: ';' expected
+        res.stream().map((Coord x) -> {x.getL(), x.getC()});
+                                                         ^
+2 errors
+2023.03.15 11:01:46 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:01:50 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:02:00 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:02:01 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:291: error: not a statement
+        res.stream().sor
+                    ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:291: error: ';' expected
+        res.stream().sor
+                        ^
+2 errors
+2023.03.15 11:02:03 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:02:03 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:291: error: ';' expected
+        res.stream().sorted(null)
+                                 ^
+1 error
+2023.03.15 11:02:05 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:02:05 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:291: error: ';' expected
+        res.stream().sorted(Comp)
+                                 ^
+1 error
+2023.03.15 11:02:07 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:02:07 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:291: error: ')' expected
+        res.stream().sorted(Comparators
+                                       ^
+1 error
+2023.03.15 11:02:15 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:02:15 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:291: error: ')' expected
+        res.stream().sorted(Comparators.comp
+                                            ^
+1 error
+2023.03.15 11:02:18 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:02:19 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:291: error: ';' expected
+        res.stream().sorted(Comparators.comp)
+                                             ^
+1 error
+2023.03.15 11:02:22 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:02:22 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:291: error: ';' expected
+        res.stream().sorted(Comparators.compar)
+                                               ^
+1 error
+2023.03.15 11:02:23 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:02:23 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:291: error: ';' expected
+        res.stream().sorted(Comparators.comparingInt)
+                                                     ^
+1 error
+2023.03.15 11:02:26 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:02:26 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:291: error: ')' expected
+        res.stream().sorted(Comparators.comparingInt(listeCoordPieces::indexOf)).collect(Collectors.toList();
+                                                                                                            ^
+1 error
+2023.03.15 11:02:27 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:02:29 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:02:52 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:02:53 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:02:55 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:03:14 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:03:20 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:03:22 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:03:22 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:292: error: not a statement
+        s.str
+         ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:292: error: ';' expected
+        s.str
+             ^
+2 errors
+2023.03.15 11:03:23 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:03:24 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:292: error: not a statement
+        s.stream
+         ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:292: error: ';' expected
+        s.stream
+                ^
+2 errors
+2023.03.15 11:03:26 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:03:33 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:03:40 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:03:41 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:292: error: <identifier> expected
+        res.stream().sorted(Comparator.comparingInt(Coord::getL).thenComparingInt(Coord::getC)).;
+                                                                                                ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:292: error: not a statement
+        res.stream().sorted(Comparator.comparingInt(Coord::getL).thenComparingInt(Coord::getC)).;
+                                                                                               ^
+2 errors
+2023.03.15 11:04:34 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:05:43 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:05:53 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:05:53 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:290: error: ';' expected
+		var res = closestPieces(startingP, listeCoordPieces, new ArrayList<Coord>());
+		   ^
+1 error
+2023.03.15 11:06:35 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:06:35 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:288: error: ';' expected
+        var Coords 
+                  ^
+1 error
+2023.03.15 11:06:40 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:06:44 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:06:44 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:289: error: illegal start of type
+        var Coords = new Dictionary<,V>() {
+                                    ^
+1 error
+2023.03.15 11:06:49 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:07:03 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:07:05 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:07:06 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:290: error: 'var' is not allowed in a compound declaration
+        var Coords = new HashMap()<Integer,Coord>() {
+        ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:290: error: ';' expected
+        var Coords = new HashMap()<Integer,Coord>() {
+                                                ^
+2 errors
+2023.03.15 11:07:14 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:07:16 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:07:23 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:07:23 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:292: error: 'var' is not allowed here
+		var res = closestPieces(startingP, listeCoordPieces, new ArrayList<Coord>());
+		^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:293: error: <identifier> expected
+		res.remove(0);
+		          ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:293: error: illegal start of type
+		res.remove(0);
+		           ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:296: error: <identifier> expected
+        res.stream().sorted(Comparator.comparingInt(Coord::getL).thenComparingInt(Coord::getC));
+                  ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:296: error: ';' expected
+        res.stream().sorted(Comparator.comparingInt(Coord::getL).thenComparingInt(Coord::getC));
+                    ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:297: error: illegal start of type
+		return null;
+		^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:298: error: ';' expected
+	}
+	 ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:300: error: illegal start of expression
+	public Solution calculerSol(ArrayList<Integer> permut) {
+	^
+8 errors
+2023.03.15 11:07:29 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:07:30 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:290: error: ';' expected
+        var Coords = new HashMap<Integer,Coord>()
+                                                 ^
+1 error
+2023.03.15 11:07:31 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:07:39 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:07:41 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:07:41 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:291: error: ';' expected
+        listeCoordPieces.stream()
+                                 ^
+1 error
+2023.03.15 11:07:43 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:07:43 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:07:55 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:08:24 WARN  Using indexes to guess the definition of hashCode
+2023.03.15 11:08:26 WARN  Using indexes to guess the definition of hashCode
+2023.03.15 11:08:26 WARN  Using indexes to guess the definition of hashCode
+2023.03.15 11:08:36 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:08:36 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:291: error: illegal start of expression
+        listeCoordPieces.stream().forEach(x -> Coords.put(,x));
+                                                          ^
+1 error
+2023.03.15 11:08:38 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:08:38 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:291: error: illegal start of expression
+        listeCoordPieces.stream().forEach((x -> Coords.put(,x));
+                                                           ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:291: error: ')' expected
+        listeCoordPieces.stream().forEach((x -> Coords.put(,x));
+                                                               ^
+2 errors
+2023.03.15 11:08:40 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:08:41 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:291: error: illegal start of expression
+        listeCoordPieces.stream().forEach((x,i) -> Coords.put(,x));
+                                                              ^
+1 error
+2023.03.15 11:08:44 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:08:59 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:09:02 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:09:45 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:09:47 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:09:49 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:09:50 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:10:00 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:10:01 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:10:05 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:10:06 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:291: error: illegal start of expression
+        =
+        ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:293: error: ';' expected
+		var res = closestPieces(startingP, listeCoordPieces, new ArrayList<Coord>());
+		   ^
+2 errors
+2023.03.15 11:10:10 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:10:12 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:10:16 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:10:30 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:10:30 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:295: error: not a statement
+        var 
+        ^
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:295: error: ';' expected
+        var 
+           ^
+2 errors
+2023.03.15 11:10:35 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:10:35 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:295: error: ';' expected
+        var order 
+                 ^
+1 error
+2023.03.15 11:10:37 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:10:50 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:11:03 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:11:04 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:11:07 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:11:07 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:297: error: ';' expected
+        res.stream()
+                    ^
+1 error
+2023.03.15 11:11:13 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:11:14 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:11:22 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:11:22 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:11:24 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:11:38 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:11:47 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:11:54 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:11:56 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:12:01 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:12:02 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:297: error: ')' expected
+        return res.stream().map(x -> listeCoordPieces.indexOf(x)).collect(Collectors:);
+                                                                                    ^
+1 error
+2023.03.15 11:12:06 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:12:08 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:12:10 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:12:13 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:12:50 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:14:04 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:14:06 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:14:22 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:14:25 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:14:28 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:14:28 WARN  Running javac-semanticdb failed for file:///Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java. Output:
+/Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java:296: error: <identifier> expected
+            .
+             ^
+1 error
+2023.03.15 11:14:39 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:14:40 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:14:53 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:14:54 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:14:56 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:15:39 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:15:41 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
+2023.03.15 11:15:54 WARN  no build target for: /Users/unixy/IntelliJIdeaProjects/TPgrillefinal_code_squelette/TP-MARTIN-NOUGUIER/src/Instance.java
