@@ -1,3 +1,4 @@
+import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
@@ -5,6 +6,7 @@ import java.util.Dictionary;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Objects;
+import java.util.function.Function;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 import java.util.stream.Stream;
@@ -20,7 +22,7 @@ public class Instance {
 	// et les coordonnées ne sortent pas du plateau)
 
 	private ArrayList<Coord> listeCoordPieces;// attribut supplémentaire (qui est certes redondant) qui contiendra la
-												// liste des coordonnées des pièces du plateau
+	// liste des coordonnées des pièces du plateau
 	// on numérote les pièces de haut en bas, puis de gauche à droite, par exemple
 	// sur l'instance suivante (s représente
 	// le startinP et x les pièces
@@ -182,7 +184,7 @@ public class Instance {
 		if (s == null)
 			return null;
 		StringBuilder res = new StringBuilder("");// \n k = " + k + "\n" + "nb pieces = " + listeCoordPieces.size() +
-													// "\n");
+		// "\n");
 		for (int l = 0; l < getNbL(); l++) {
 			for (int c = 0; c < getNbC(); c++) {
 				if (startingP.equals(new Coord(l, c)))
@@ -234,9 +236,7 @@ public class Instance {
 		// prerequis : s est valide (et donc !=null)
 		// action : retourne le nombre de pièces ramassées par s (et ne doit pas
 		// modifier this ni s)
-		return s.stream()
-            .filter(this::piecePresente)
-            .reduce(0, (acc, x) -> acc + 1, Integer::sum);
+		return s.stream().filter(this::piecePresente).reduce(0, (acc, x) -> acc + 1, Integer::sum);
 	}
 
 	public int nbStepsToCollectAll(ArrayList<Integer> permut) {
@@ -265,7 +265,8 @@ public class Instance {
 		var closest = pieces.stream().min(Comparator.comparingInt(x::distanceFrom)).orElseThrow();
 
 		path.add(x);
-		return closestPieces(closest, pieces.subList(1, pieces.size() - 1), path);
+		pieces.remove(x);
+		return closestPieces(closest, pieces, path);
 	}
 
 	public ArrayList<Integer> greedyPermut() {
@@ -294,12 +295,28 @@ public class Instance {
 		var res = closestPieces(startingP, listeCoordPieces, new ArrayList<Coord>());
 		res.remove(0);
 
-		return res.stream()
-            .map(x -> listeCoordPieces.indexOf(x))
-            .collect(Collectors.toCollection(ArrayList::new));
+		return res.stream().map(x -> listeCoordPieces.indexOf(x)).collect(Collectors.toCollection(ArrayList::new));
 	}
 
-    // TODO : à compléter
+	public List<Coord> getPathBetween(Coord start, Coord end) {
+		return Stream
+				.iterate(
+						start,
+						coord -> !coord.equals(end),
+						coord -> coord.nextTo(end)
+				).collect(Collectors.toList());
+		// Same
+		// var path = new ArrayList<Coord>();
+		// var current = start;
+		// while (!current.equals(end)) {
+		// 	path.add(current);
+		// 	var next = current.nextTo(end);
+		// 	current = next;
+		// }
+		// return path;
+	}
+
+	// TODO : à compléter
 	public Solution calculerSol(ArrayList<Integer> permut) {
 
 		// prérequis : permut est une permutation des entiers
@@ -327,6 +344,38 @@ public class Instance {
 
 		// a compléter
 
+		Function<Integer, Coord> getPiece = i -> listeCoordPieces.get(permut.get(i));
+
+		var piecesPath = Stream
+			.iterate(0, n -> n < permut.size() - 1, n -> n + 1)
+			.flatMap(i -> getPathBetween(
+							getPiece.apply(i),
+							getPiece.apply(i + 1)
+					).stream()
+			);
+
+		
+
+		var current = startingP;
+		var path = new ArrayList<Coord>();
+
+		for (int i = 0; i < permut.size() - 1; i++) {
+			var tempPath = getPathBetween(current, listeCoordPieces.get(permut.get(i)));
+			path.addAll(path);
+			current = listeCoordPieces.get(permut.get(i));
+		}
+
+		Solution res;
+		
+		for(int i=0;i<k;i++) {
+			if(path.size() == 0) {
+				return res;
+			}
+			res.add(path.remove(0));
+		}
+		
+		return res;
+
 		return null;
 	}
 
@@ -334,7 +383,7 @@ public class Instance {
 	 **** fin algo algo greedy ******
 	 *************************************************/
 
-    // TODO
+	// TODO
 	public int borneSup() {
 		// soit d0 la distance min entre la position de départ et une pièce
 		// soit {d1,..,dx} l'ensemble des distances entre pièces (donc x =

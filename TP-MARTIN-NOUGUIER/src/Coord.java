@@ -52,4 +52,21 @@ public class Coord {
     public int hashCode() {
         return Objects.hash(l, c);
     }
+
+    public Coord nextTo(Coord end) {
+        if(this.equals(end)) return this;
+        if (l == end.l) {
+            if (c < end.c) {
+                return new Coord(l, c + 1);
+            } else {
+                return new Coord(l, c - 1);
+            }
+        } else {
+            if (l < end.l) {
+                return new Coord(l + 1, c);
+            } else {
+                return new Coord(l - 1, c);
+            }
+        }
+    }
 }
