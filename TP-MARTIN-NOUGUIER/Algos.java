@@ -1,6 +1,8 @@
 
 
 import java.util.*;
+import java.util.stream.Collectors;
+import java.util.stream.Stream;
 
 public class Algos {
 
@@ -18,6 +20,49 @@ public class Algos {
         return i.calculerSol(i.greedyPermut());
     }
 
+    private static class Pair<T, U> {
+        public T first;
+        public U second;
+
+        public Pair(T first, U second) {
+            this.first = first;
+            this.second = second;
+        }
+    }
+
+    private static Pair<Stream<Coord>, Integer> greedySolver(
+        Coord coord,
+        int pieceCount,
+        List<Coord> dejaVisite,
+        InstanceDec id
+    ) {
+        var newDejaVisite = new ArrayList<Coord>(dejaVisite);
+        if (pieceCount >= id.c || newDejaVisite.size() == id.i.getK()) return new Pair<>(newDejaVisite.stream(), pieceCount);
+
+        System.out.println("Visiting " + coord + " with " + pieceCount + " pieces --- 1");
+
+        var pathChoices = coord.neighbors(id.i.getNbL(), id.i.getNbC()).map((Coord c) -> {
+            if (newDejaVisite.contains(c)) return null;
+            
+            var newPieceCount = pieceCount;
+            if (id.i.piecePresente(c)) newPieceCount++;
+
+            newDejaVisite.add(c);
+            return greedySolver(c, newPieceCount, newDejaVisite, id);
+        });
+
+        System.out.println("Visiting " + coord + " with " + pieceCount + " pieces --- 2");
+
+        var bestPath = pathChoices.reduce((a, b) -> {
+            if (a == null) return b;
+            if (b == null) return a;
+            return a.second > b.second ? a : b;
+        }).orElseThrow();
+
+        if (bestPath.second > id.c) return bestPath;
+        else return null;
+    }
+
 
     public static Solution algoFPT1(InstanceDec id) {
         //algorithme qui décide id (c'est à dire si opt(id.i) >= id.c) en branchant (en 4^k) dans les 4 directions pour chacun des k pas
@@ -29,7 +74,17 @@ public class Algos {
 
         //à compléter
 
-        return null;
+        if(id.c==0) return new Solution(id.i.getStartingP());
+
+        List<Coord> dejaVisite = new ArrayList<Coord>();
+        var result = greedySolver(id.i.getStartingP(), 0, dejaVisite, id);
+
+        if (result == null || result.second < id.c) return null;
+
+        var sol = new Solution();
+        sol.addAll(result.first.collect(Collectors.toList()));
+
+        return sol;
     }
 
 

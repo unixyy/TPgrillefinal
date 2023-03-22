@@ -1,5 +1,6 @@
 
 import java.util.Objects;
+import java.util.stream.Stream;
 
 public class Coord {
     private final int l;
@@ -51,6 +52,13 @@ public class Coord {
     @Override
     public int hashCode() {
         return Objects.hash(l, c);
+    }
+
+    public Stream<Coord> neighbors(int nbL, int nbC) {
+        return Stream.of(
+            new Coord(l - 1, c), new Coord(l + 1, c),
+            new Coord(l, c - 1), new Coord(l, c + 1))
+            .filter(x -> x.estDansPlateau(nbL, nbC));
     }
 
     public Coord nextTo(Coord end) {
