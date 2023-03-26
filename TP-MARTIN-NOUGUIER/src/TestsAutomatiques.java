@@ -182,8 +182,6 @@ class TestsAutomatiques {
         res.add(new Coord(0,0));
         Solution s =  Algos.algoFPT1(id0);
 
-        System.out.println("EXPECTED : " + res);
-        System.out.println("GOT : " + s);
         if(s != null && s.equals(res))
             return 1;
         else
@@ -200,7 +198,8 @@ class TestsAutomatiques {
         Coord sp0 = new Coord(0, 1);
         int k0 = 2;
         Instance in0 = new Instance(p0, sp0, k0);
-        int binf  =  in0.borneSup();;
+        int binf = in0.borneSup();
+
         if(binf == 2)
             return 1;
         else

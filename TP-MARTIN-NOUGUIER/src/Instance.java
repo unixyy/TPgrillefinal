@@ -342,7 +342,6 @@ public class Instance {
    **** fin algo algo greedy ******
    *************************************************/
 
-  // TODO
   public int borneSup() {
     // soit d0 la distance min entre la position de départ et une pièce
     // soit {d1,..,dx} l'ensemble des distances entre pièces (donc x =
@@ -356,8 +355,10 @@ public class Instance {
     // (vous pouvez réfléchir au fait que c'est bien une borne supérieure)
     // (pour des exemples précis, cf les tests)
 
-    // à compléter
-
-    return 0;
+    return (int) listeCoordPieces.stream()
+        .map(startingP::distanceFrom)
+        .sorted()
+        .takeWhile(x -> x <= this.k)
+        .count();
   }
 }
