@@ -1,6 +1,7 @@
 
 import java.util.*;
 import java.util.function.ToIntFunction;
+import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 public class Algos {
@@ -40,8 +41,6 @@ public class Algos {
     if (pieceCount >= id.c || newDejaVisite.size() == id.i.getK() + 1)
       return new Pair<>(newDejaVisite.stream(), pieceCount);
 
-    //TODO: add a base case with borneSup
-
     return coord
         .neighbors(id.i.getNbL(), id.i.getNbC())
         .map((Coord c) -> bestPathForCord(c, pieceCount, id, newDejaVisite))
@@ -54,8 +53,8 @@ public class Algos {
       ArrayList<Coord> newDejaVisite) {
     ToIntFunction<Coord> hasPiece = (Coord c) -> id.i.piecePresente(c) ? 1 : 0;
     return newDejaVisite.contains(coord)
-          ? null
-          : greedySolver(coord, pieceCount + hasPiece.applyAsInt(coord), newDejaVisite, id);
+        ? null
+        : greedySolver(coord, pieceCount + hasPiece.applyAsInt(coord), newDejaVisite, id);
   }
 
   public static Solution algoFPT1(InstanceDec id) {
@@ -74,6 +73,33 @@ public class Algos {
 
     if (id.c == 0)
       return new Solution(id.i.getStartingP());
+
+    var pieces = id.i.getListeCoordPieces();
+    var onSingleLine = pieces
+        .stream()
+        .map(Coord::getL)
+        .distinct()
+        .count() == 1;
+    var onSingleColumn = pieces
+        .stream()
+        .map(Coord::getC)
+        .distinct()
+        .count() == 1;
+
+    if ((onSingleLine || onSingleColumn)) {
+      if (id.i.borneSup() < id.c)
+        return null;
+      else {
+        var coords = pieces
+            .stream()
+            .sorted(Comparator.comparingInt(id.i.getStartingP()::distanceFrom))
+            .takeWhile(
+                (Coord c) -> id.i.getStartingP().distanceFrom(c) <= id.c)
+            .collect(Collectors.toList());
+        var sol = new Solution();
+        coords.forEach(sol::add);
+      }
+    }
 
     List<Coord> dejaVisite = new ArrayList<>();
     var result = greedySolver(
@@ -105,7 +131,40 @@ public class Algos {
     // algoFPT1 (et donc il y aura de la duplication de code)
 
     // à compléter
-    return null;
+
+    //TODO: not correct
+
+    if (table.containsKey(id))
+      return table.get(id);
+
+    if (id.c == 0)
+      return new Solution(id.i.getStartingP());
+
+    ToIntFunction<Coord> hasPiece = (Coord c) -> id.i.piecePresente(c) ? 1 : 0;
+
+    var result = id.i.getStartingP()
+        .neighbors(id.i.getNbL(), id.i.getNbC())
+        .map((Coord c) -> {
+          var instance = new Instance(id.i);
+          var gotPiece = hasPiece.applyAsInt(c);
+          if (gotPiece == 1)
+            instance.retirerPiece(c);
+          instance.setStartingP(c);
+          var instanceDec = new InstanceDec(id.i, id.c - hasPiece.applyAsInt(c));
+          return algoFPT1DP(instanceDec, table);
+        })
+        .reduce((a, b) -> a.size() > b.size() ? a : b)
+        .orElse(null);
+
+    if (result == null)
+      return null;
+
+    var sol = new Solution();
+    result.forEach(sol::add);
+
+    table.put(id, sol);
+
+    return sol;
   }
 
   public static Solution algoFPT1DPClient(InstanceDec id) {
