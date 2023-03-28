@@ -132,8 +132,6 @@ public class Algos {
 
     // à compléter
 
-    //TODO: not correct
-
     if (table.containsKey(id))
       return table.get(id);
 
@@ -168,13 +166,7 @@ public class Algos {
   }
 
   public static Solution algoFPT1DPClient(InstanceDec id) {
-    // si il est possible de collecter >= id.c pièces dans id.i, alors retourne une
-    // Solution de valeur >= c, sinon retourne null
-    // doit faire appel à algoFPT1DP
-
-    // à completer
-    return null;
-
+    return algoFPT1DP(id, new HashMap<>());
   }
 
 }

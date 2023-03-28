@@ -230,6 +230,9 @@ public class Instance {
     // prerequis : s est valide (et donc !=null)
     // action : retourne le nombre de pièces ramassées par s (et ne doit pas
     // modifier this ni s)
+    if (s == null)
+      return 0;
+
     return s.stream().filter(this::piecePresente).reduce(0, (acc, x) -> acc + 1, Integer::sum);
   }
 
@@ -243,8 +246,16 @@ public class Instance {
     // l'ordre de permut
 
     // à compléter
+    if (permut == null)
+      return 0;
 
-    return 0;
+    var coords = permut
+        .stream()
+        .map(listeCoordPieces::get).collect(Collectors.toList());
+
+    return startingP.distanceFrom(coords.get(0)) + IntStream.range(0, coords.size() - 1)
+        .map(i -> coords.get(i).distanceFrom(coords.get(i+1)))
+        .sum();
   }
 
   /************************************************
@@ -323,6 +334,8 @@ public class Instance {
     // et on s'arrête avant d'avoir fait k pas car on a tout collecté)
 
     // a compléter
+    if (permut == null)
+      return new Solution();
 
     IntFunction<Coord> getPiece = i -> listeCoordPieces.get(permut.get(i));
 
